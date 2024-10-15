@@ -1,9 +1,14 @@
-body {
-    background-color: powderblue;
+body { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(41, 41, 41);
   }
   h1 {
-    color: blue;
+    color: rgb(255, 115, 0);
   }
   p {
-    color: red;
+    color: rgb(14, 223, 223);
+  }
+  h2{
+    font-size: smaller;
+    color:rgb(240, 135, 30)
   }
